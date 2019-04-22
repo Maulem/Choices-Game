@@ -1,2 +1,2 @@
-# Choices-Game
-A game made by Henrique Mualem Marti, that the choices you do changes the future and the ending of the game!
+#### Shutdown Master
+A program made by Henrique Mualem Marti, that helps to set a time to shut down your computer!
