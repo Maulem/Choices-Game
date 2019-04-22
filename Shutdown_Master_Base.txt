@@ -92,5 +92,6 @@ shutdown -R -t 7 -c "Reiniciando" -f
 goto END
 :END
 taskkill -im cmd.exe /f /t
+exit
 
 
