@@ -1,2 +1,4 @@
 #### Shutdown Master
-A program made by Henrique Mualem Marti, that helps to set a time to shut down your computer!
+A batch program made by me, that you can use to set a timer to shutdown your computer, restart it or abort these actions!
+
+Use it wisely...
